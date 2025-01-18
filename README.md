@@ -1,11 +1,5 @@
-# Welcome To This Repository!
-There Will Be Published Development Of Musicist+++ 
+# OrangePlayer - The Ultimate Player For Windows
+a simple music/video player for windows with all in need options without telemetry!
+### For Windows 10/11
+### Download / Link
 
-It's Python Program
-
-The Program Will Be Published: 
-| Program Estamated Release  | Could Be Released In |
-| ------------- | ------------- |
-| 2024 - 12 - 15| 2025 - 01 - 03|
-
-Edited 2024-11-10
